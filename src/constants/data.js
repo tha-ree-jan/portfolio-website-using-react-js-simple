@@ -3,32 +3,32 @@ import images from "./images";
 const services = [
     {
         image: `${images.services_img_1}`,
-        title: "Web Design",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+        title: "Chains",
+        paragraph: " Unleash the allure of gold chains, an emblem of sophistication, style, and eternal elegance."
     },
     {
         image: `${images.services_img_2}`,
-        title: "Branding",
+        title: "Bracelets",
         paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
     },
     {
         image: `${images.services_img_3}`,
-        title: "UX Design",
+        title: "Rings",
         paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
     },
     {
         image: `${images.services_img_4}`,
-        title: "Logo Create",
+        title: "Necklace",
         paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
     },
     {
         image: `${images.services_img_5}`,
-        title: "Illustration",
+        title: "Earings",
         paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
     },
     {
         image: `${images.services_img_6}`,
-        title: "Graphics",
+        title: "Bangles",
         paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
     },
 ];

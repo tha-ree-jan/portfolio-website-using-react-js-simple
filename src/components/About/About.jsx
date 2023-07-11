@@ -21,8 +21,8 @@ const About = () => {
                 <div className='about-grid grid'>
                     <img src = {images.About_Alex} alt = "" className='about-img mx-auto' />
                     <div className='section-title'>
-                        <h3 className='text-brown'>I'm <span className='text-dark'>Alex</span></h3>
-                        <p className='text mx-auto'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam culpa distinctio mollitia consectetur dolore! Iusto dolores reprehenderit at ad! Molestiae.</p>
+                        <h3 className='text-brown'>Jearmy <span className='text-dark'>Jwellery</span></h3>
+                        <p className='text mx-auto'>Step into a world of timeless elegance. Discover exquisite jewelry creations that capture hearts and inspire awe. From dazzling diamonds to vibrant gemstones, our curated collection showcases the epitome of luxury and style. Experience the artistry of our bespoke designs and let us elevate your personal style. Welcome to our jewelry shop, where beauty and grace converge.</p>
                     </div>
                 </div>
 

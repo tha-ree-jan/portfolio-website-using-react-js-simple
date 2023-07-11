@@ -27,7 +27,7 @@ const Work = () => {
         <div className='container'>
             <div className='work-content'>
                 <div className='section-title'>
-                    <h3 className='text-brown'>latest <span className='text-dark'>works</span></h3>
+                    <h3 className='text-brown'>latest <span className='text-dark'>Designs</span></h3>
                     <p className='text'>I offer the right solutions for your digital business.</p>
                 </div>
 
